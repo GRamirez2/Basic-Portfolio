@@ -286,12 +286,10 @@ textarea{
 	bottom: 0;
 	width: 100%;
 
-	
-	
 
 }
 
-#footertext{
+.footertext{
 
 	text-align: center;
 	color: #bbb
